@@ -1,0 +1,53 @@
+ROADMAP
+
+
+HTML CSS  (basic)  = > FRONTEND							BACKEND
+
+	||												||			||
+																								
+JS
+													.NET            EXPRESS 
+	||
+
+DOM                             == >       API
+									API		< ==		  MANGO_db 
+	||
+
+REACT / ANGULAR
+
+
+
+
+
+---------------	TYPES of datatypes ----------
+
+PRIMITIVE datatypes-:
+NUMBERS
+STRING 
+BOOLEAN
+
+
+let   const    var  
+
+Feature			var					let					const
+
+Scope			Function Scoped		Block Scoped			Block Scoped
+Hoisting			Yes (returns undefined)	Yes (Reference Error)	Yes (Reference Error)
+Reassignable		Yes					Yes					No
+Redeclarable		Yes					No					No
+
+
+
+ NON primitive :
+
+	OBJECTS
+
+
+
+
+Questions :
+1.what is node.js and javascript
+2 difference between let const var
+3.difference bet.  ==   and  ===
+4. diff. bt. .net and .net core
+
