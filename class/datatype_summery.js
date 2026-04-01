@@ -1,4 +1,4 @@
-/*
+ /*
 //symbol example - uses for unique id 
 const anotherId = Symbol("123");
 console.log(anotherId); // Symbol(123)
